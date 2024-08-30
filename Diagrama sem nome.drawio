@@ -1,0 +1,92 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 OPR/112.0.0.0" version="24.7.8">
+  <diagram name="Página-1" id="0M3PWV4N1hvaJ91ZI4oT">
+    <mxGraphModel dx="996" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ut1JCKEDM2ATsum3ZU6a-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry width="830" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ut1JCKEDM2ATsum3ZU6a-10" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Daniel Ramoa dos Santos Rocha&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340.25" y="500" width="147.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ut1JCKEDM2ATsum3ZU6a-11" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Home&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="311" y="15" width="205" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ut1JCKEDM2ATsum3ZU6a-13" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="271.5" y="90" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ut1JCKEDM2ATsum3ZU6a-14" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="90" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ut1JCKEDM2ATsum3ZU6a-15" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="90" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ut1JCKEDM2ATsum3ZU6a-17" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="90" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ut1JCKEDM2ATsum3ZU6a-18" value="Home" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="140" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ut1JCKEDM2ATsum3ZU6a-19" value="Sobre" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="261.5" y="140" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ut1JCKEDM2ATsum3ZU6a-20" value="Portfólio" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="140" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ut1JCKEDM2ATsum3ZU6a-21" value="Contatos" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="720" y="140" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ut1JCKEDM2ATsum3ZU6a-22" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="304" y="230" width="220" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="ut1JCKEDM2ATsum3ZU6a-8" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="ut1JCKEDM2ATsum3ZU6a-22">
+          <mxGeometry width="220" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="ut1JCKEDM2ATsum3ZU6a-9" value="Foto minha" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ut1JCKEDM2ATsum3ZU6a-22">
+          <mxGeometry x="80" y="95" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ut1JCKEDM2ATsum3ZU6a-23" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Olá, meu nome é Daniel e atualmente estou cursando o 1º Semestre do curso Ciência da Computação na Universidade de Vila Velha (UVV).&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="670" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ut1JCKEDM2ATsum3ZU6a-26" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="710" as="sourcePoint" />
+            <mxPoint x="120" y="660" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="120" y="710" />
+              <mxPoint x="70" y="660" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ut1JCKEDM2ATsum3ZU6a-27" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="780" y="900" as="sourcePoint" />
+            <mxPoint x="730" y="830" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="730" y="880" />
+              <mxPoint x="770" y="840" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ut1JCKEDM2ATsum3ZU6a-29" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Por conta da falta de conhecimentos necessários para oferecer produtos e serviços, ainda não posso me comprometer em ofertar quaisquer que sejam estas atividades&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="850" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ut1JCKEDM2ATsum3ZU6a-30" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="1070" as="sourcePoint" />
+            <mxPoint x="120" y="1020" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="120" y="1070" />
+              <mxPoint x="70" y="1050" />
+              <mxPoint x="70" y="1020" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ut1JCKEDM2ATsum3ZU6a-32" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Porém, no momento, posso afirmar que dentro do leque de possibilidades que o curso oferece, estou me interessando bastante na parte do front-ending.&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="1030" width="290" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
