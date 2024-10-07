@@ -1,0 +1,225 @@
+:root{
+    --black: #000000;
+    --bgC: #ffeeca;
+    --border: 0.1rem rgba(255, 255, 255,0.3);
+    font-size: 10px;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    outline: none;
+    border: none;
+    text-decoration: none;
+    transition: 0.2s linear;
+    font-family: "Oswald", sans-serif;
+}
+
+body{
+    background-color: var(--bgC);
+}
+
+section{
+    padding: 3rem 2rem;
+    margin: 0 auto;
+    max-width: 1200px;
+}
+
+.header{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 99;
+    border-bottom: var(--border);
+    background-color: #ffeeca;
+    border-style: solid;
+    border-color: #000000;
+}
+
+.header section {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+}
+
+.logo{
+    font-size: 20px;
+    color: var(--black);
+}
+
+.logo:hover{
+    color: var(--black);
+}
+
+.botoeshome a{
+    margin: 0 1rem;
+    padding: 2rem;
+    font-size: 1.8rem;
+    color: var(--black);
+}
+
+.botoeshome a:hover{
+    color: var(--black);
+    border-bottom: 0.1rem solid var(--black);
+    padding-bottom: 0.5rem;
+    font-size: 2rem;
+}
+
+.home-container{
+    display: flex;
+    justify-content: center;
+}
+
+.mypic-div{
+    display: flex;
+    justify-content: center;
+    padding-top: 150px;
+}
+
+.mypic{
+    width: 400px;
+    height: 400px;
+    object-fit: cover;
+    border-radius: 50%;
+    border-style:double;
+    border-width: 10px;
+    border-color: black;
+}
+
+.content{
+    width: 600px;;
+    padding: 1rem 0rem;
+
+}
+
+.content h3{
+    font-size: 4rem;
+    text-align: center;
+}
+
+.content p{
+    font-size: 2rem;
+    font-weight: 300;
+    line-height: 4rem;
+    padding: 2rem 0rem;
+}
+
+.about{
+    width: 600px;
+}
+
+.about-title{
+    display: flex;
+    justify-content: center;
+    font-size: 4rem;
+}
+
+.texto1{
+    font-size: 2rem;
+    font-weight: 300;
+    line-height: 4rem;
+    padding: 2rem 0rem;
+}
+
+.texto2 p{
+    font-size: 2rem;
+    font-weight: 300;
+    line-height: 4rem;
+    padding: 2rem 0rem;
+}
+
+.texto2{
+    background-color:#fff0d1;
+}
+
+.portfolio{
+    width: 600px;
+    text-align: center;
+}
+
+.portfolio-title{
+    display: flex;
+    justify-content: center;
+    font-size: 4rem;
+}
+
+.portfolio a{
+    font-size: 1.5rem;
+    color: #000000;
+    background-color: gold;
+}
+
+.jesko-foto{
+    width: 200px;
+    padding-top: 40px;
+}
+
+.contacts{
+    width: 600px;
+    text-align: center;
+    padding-top: 70px;
+}
+
+.contacts-title{
+    font-size: 4rem;
+    justify-content: center;
+}
+
+.contacts-descriçao{
+    font-size: 2rem;
+    font-weight: 300;
+    padding-top: 20px;
+}
+
+.whatsapp h2{
+    font-size: 2.5rem;
+}
+
+.instagram h2{
+    font-size: 2.5rem;
+    padding-bottom: 2rem;
+}
+
+.github h2{
+    font-size: 2.5rem;
+    padding-bottom: 2rem;
+}
+
+.linkedin h2{
+    font-size: 2.5rem;
+    padding-bottom: 2rem;
+}
+
+.whatsapp{
+    padding-top: 20px;
+}
+
+.instagram{
+    padding: 20px;
+}
+
+.instagram a{
+    color: black;
+    font-size: 1.5rem;
+}
+
+.github{
+    padding: 20px;
+}
+
+.github a{
+    color: black;
+    font-size: 1.5rem;
+}
+
+.linkedin{
+    padding: 20px;
+}
+
+.linkedin a{
+    color: black;
+    font-size: 1.5rem;
+}
