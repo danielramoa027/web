@@ -1,0 +1,105 @@
+
+body{
+    background-color: rgb(34, 0, 42);
+    height: 100vh;
+    background-size: cover;
+    width: 800px;
+    margin: auto;
+}
+
+.titulo{
+    font-family: "Bokor", system-ui;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    border-bottom: 1px solid rgb(122, 48, 122);
+}
+
+.titulo h1{
+    font-weight: 100;
+    color: rgb(122, 48, 122);
+}
+
+.titulo img{
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+    border-radius: 50%;
+    padding: 25px;
+}
+
+.pessoa{
+    margin: 60px;
+    text-align: center;
+}
+
+.pessoa img{
+    height: 110px;
+    width: 110px;
+    border-radius: 50%;
+    border-width: 5px;
+    border-color: rgb(122, 48, 122);
+    border-style: double;
+    object-fit: cover;
+}
+
+.pessoa p{
+    font-weight: 200;
+    font-size: 20px;
+    color: rgb(187, 70, 187);
+}
+
+.infos{
+    color: rgb(122, 48, 122);
+}
+
+.infos p{
+    font-size: 18px;
+    padding: 5px;
+    color: white;
+}
+
+.oraculos{
+    display: flex;
+}
+
+
+
+.atendimento{
+    display: flex;
+}
+
+.consultas{
+    display: flex;
+}
+
+.oxala{
+    font-family: 'Bokor', sans-serif;
+    font-size: 30px;
+    color: rgb(122, 48, 122);
+    font-weight: 300;
+    padding-top: 20px;
+}
+
+.resto a{
+    color: rgb(187, 70, 187);
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.agende{
+    padding-top: 15px;
+    color: rgb(187, 70, 187);
+}
+
+.start{
+    font-size: 30px;
+    padding: 10px;
+}
+
+.motivational p{
+    font-size: 20px;
+    color: rgb(187, 70, 187);
+    text-align: center;
+}
